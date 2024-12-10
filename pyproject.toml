@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "meme-guru-agent"
+version = "0.1.0"
+description = ""
+authors = ["Resister-boy <hassanpumped17@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
