@@ -55,6 +55,7 @@ scikit-learn = "^1.6.0"
 wikipedia = "^1.4.0"
 django = "^5.1.4"
 djangorestframework = "^3.15.2"
+faiss-cpu = "^1.9.0.post1"
 
 
 [build-system]
