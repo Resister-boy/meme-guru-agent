@@ -56,6 +56,7 @@ wikipedia = "^1.4.0"
 django = "^5.1.4"
 djangorestframework = "^3.15.2"
 faiss-cpu = "^1.9.0.post1"
+beautifulsoup4 = "^4.12.3"
 
 
 [build-system]
