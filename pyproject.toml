@@ -53,11 +53,14 @@ mypy = "^1.13.0"
 pinecone = "^5.4.2"
 scikit-learn = "^1.6.0"
 wikipedia = "^1.4.0"
-django = "^5.1.4"
-djangorestframework = "^3.15.2"
 faiss-cpu = "^1.9.0.post1"
 beautifulsoup4 = "^4.12.3"
 chromadb = "^0.5.23"
+fastapi = "^0.115.6"
+uuid = "^1.30"
+tavily-python = "^0.5.0"
+langchain-experimental = "^0.3.3"
+asyncio = "^3.4.3"
 
 
 [build-system]
